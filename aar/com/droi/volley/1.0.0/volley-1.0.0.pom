@@ -6,4 +6,15 @@
   <artifactId>volley</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
+  
+      compile 'com.google.android.gms:play-services-ads:+'
+
+  <dependencies>
+    <dependency>
+      <groupId>'com.google.android.gms</groupId>
+      <artifactId>play-services-ads</artifactId>
+      <version>9.6.0</version>
+    </dependency>
+  </dependencies>
+  
 </project>
